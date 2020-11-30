@@ -1,5 +1,8 @@
 Membuat cabang baru dari repository
 - Main branch
 - second branch
+ terdapat perubahan pada branch
+ jika dilihat pada network
 - edit
 - commit to branch
+
