@@ -1,4 +1,6 @@
-Testing Reo:
+Testing Repo:
 - Create New Repository
 - Create New File
 - Edit file
+- Edit created file
+- Commit file
