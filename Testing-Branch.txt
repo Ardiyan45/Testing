@@ -4,5 +4,6 @@ Membuat cabang baru dari repository
  terdapat perubahan pada branch
  jika dilihat pada network
 - edit
+- remove branch from main branch
 - commit to branch
 
