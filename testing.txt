@@ -3,4 +3,4 @@ Testing Repo:
 - Create New File
 - Edit file
 - Edit created file
-- Commit file
+- Remove and add row
