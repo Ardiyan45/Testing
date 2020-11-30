@@ -7,3 +7,7 @@ Membuat cabang baru dari repository
 - remove branch from main branch
 - commit to branch
 
+in third branch
+add 2 more branch for testing
+third branch using 2 commit
+
